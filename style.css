@@ -1,10 +1,10 @@
 body {
-    background-color: rgb(245, 233, 176);
+    background-color: rgb(8, 136, 175);
     margin: 0px;
 }
 
 /*menu*/
-.menu {
+.menu {    
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -13,8 +13,9 @@ body {
 }
 
 .menu li {
-    float:left
+    float:left;
 }
+
 li a {
     border: 1px solid black;
     padding: 15px;
