@@ -1,5 +1,5 @@
 body {
-    background-color: aqua;
+    background-color: rgb(245, 233, 176);
     margin: 0px;
 }
 
@@ -31,10 +31,12 @@ a:hover {
 }
 
 .contenido {
-    padding-left: 15px;
+    padding-left: 10px;
     background-color: rgb(245, 233, 176);
 }
 
 .active {
     border: 2px solid darkgrey;
+    background-color: goldenrod;
+    color:rgb(0, 7, 7)
 }
